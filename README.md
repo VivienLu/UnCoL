@@ -6,10 +6,10 @@ Official PyTorch implementation of UnCoL from the paper: "Harmonizing Generaliza
 
 ## Contents
 
-- [Abstract](##Abstract)
-- [Datasets](##Datasets)
-- [Usage](##Usage)
-- [Acknowledgment](##Acknowledgment)
+- [Abstract](#abstract)
+- [Datasets](#datasets)
+- [Usage](#usage)
+- [Acknowledgment](#acknowledgment)
 
 ## Abstract
 
